@@ -1,1 +1,0 @@
-# testmintingdapp1.0
